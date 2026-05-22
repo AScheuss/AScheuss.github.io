@@ -1,3 +1,3 @@
 ### Welcome to my site
 
-This is a place where I can do various things in the areas of programming, mathematics and philosophy - More to come.
+This is a place where I could do various things in the areas of programming, mathematics and philosophy. However, as time is not abundant, it is less than I hoped for...
